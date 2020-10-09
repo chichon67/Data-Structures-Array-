@@ -1,0 +1,7 @@
+C:\Users\marca\source\repos\DataStructureArrays\DataStructureArrays\bin\Debug\DataStructureArrays.exe.config
+C:\Users\marca\source\repos\DataStructureArrays\DataStructureArrays\bin\Debug\DataStructureArrays.exe
+C:\Users\marca\source\repos\DataStructureArrays\DataStructureArrays\bin\Debug\DataStructureArrays.pdb
+C:\Users\marca\source\repos\DataStructureArrays\DataStructureArrays\obj\Debug\DataStructureArrays.csprojAssemblyReference.cache
+C:\Users\marca\source\repos\DataStructureArrays\DataStructureArrays\obj\Debug\DataStructureArrays.csproj.CoreCompileInputs.cache
+C:\Users\marca\source\repos\DataStructureArrays\DataStructureArrays\obj\Debug\DataStructureArrays.exe
+C:\Users\marca\source\repos\DataStructureArrays\DataStructureArrays\obj\Debug\DataStructureArrays.pdb
